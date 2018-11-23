@@ -43,12 +43,12 @@ export class ExampleComponent implements OnInit{
             "duration": 375,
             "requirements": "15 cooks on 1 day",
             "dresscodeDescription": "Good test",
-            "companyIcon": "http://localhost:8080//tvds/images/company/default-company-logo.png",
+            "companyIcon": "default-company-logo.png",
             "contactInfo": {
                 "email": "test@email.com",
                 "mobileNumber": "21512521525521",
                 "type": "",
-                "imageUrl": "http://localhost:8080/resources/api/tenants/00000000-0000-0000-0000-000000000004/icon/9543377d-1f17-4073-871c-adc76a695fdd.png",
+                "imageUrl": "test",
                 "tenantName": "COOPLE UK"
             },
             "periodFrom": 1540712758000,
